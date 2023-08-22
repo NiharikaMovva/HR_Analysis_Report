@@ -77,11 +77,27 @@ The Report consists of 4 pages :
 
 -Surprisingly Life science students got hired more with 606 number.
 
+-It has a Back button to go to Home page.
+
 
 ![](Overall_emp_info.PNG)
 
 **Salary information** :
 
+-The table describe about TOP 15 employees in a company with their income,gender,age,job role,No.of companies they worked and pecentage of Hike they got.
+
+-It has a Back button to go to Home page.
+
+![](Salay_info.PNG)
+
+## **Conclusion and Recommendations :**
+
+-Sales Executives have highest satisfaction about thier job compared to other job roles.
+
+-R & D deparment draws heighest attrition count.Provide proper Facilities to them to sustain in a company. 
+
+
+**Thank you.**
 
 
 
